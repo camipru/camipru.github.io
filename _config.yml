@@ -1,6 +1,6 @@
 
 # Basic Site Settings
-locale                   : "es-AR"
+locale                   : "en-US"
 title                    : "Camila Prudente"
 title_separator          : "\n"
 name                     : &name "Camila Prudente"
