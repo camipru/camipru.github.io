@@ -25,9 +25,7 @@ tags:
 
 ## Overview
 
-Drought is one of the most complex and costly climate risks for agricultural systems in South America. Unlike floods, it develops slowly and its impacts are hard to capture with a single metric. This tool brings together multiple drought indices and remote sensing products to provide a comprehensive view of drought conditions across key agricultural regions.
-
-The platform is designed for anyone who needs to monitor, assess, or make decisions around agricultural drought: insurers developing parametric products, producers tracking conditions on the ground, and public institutions managing climate risk.
+Drought is one of the most
 
 ## What you will find here
 
