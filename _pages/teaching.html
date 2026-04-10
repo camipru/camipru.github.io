@@ -1,23 +1,43 @@
 ---
 layout: default
-title: Teaching
-permalink: /teaching/
+title: Field Activities
+permalink: /field-activities/
 ---
 
-<h2>Teaching</h2>
+<h2>Field &amp; Community Activities</h2>
 
-{% assign teaching = site.teaching | sort: "date" | reverse %}
-{% for post in teaching %}
-{% unless post.title == "" %}
 <div class="cv-entry">
-  <div class="cv-entry__date">{{ post.date | date: "%Y" }}</div>
+  <div class="cv-entry__date">2021 – 2023</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">{{ post.title }}</p>
-    <p class="cv-entry__sub">{{ post.venue }}</p>
-    {% if post.content != "" %}
-    <div class="cv-entry__detail">{{ post.content }}</div>
-    {% endif %}
+    <p class="cv-entry__title">Fieldwork in rural communities - Departamento Bermejo, Chaco (8 trips)</p>
+    <p class="cv-entry__sub">CIMA - UBA - CONICET / CLIMAX Project</p>
+    <p class="cv-entry__detail">Conducted repeated fieldwork in remote rural communities of the Argentine Chaco as part of the doctoral research process. Each trip involved direct engagement with cattle ranchers, family farmers, and local organizations to co-design and maintain a community-based hydrometeorological monitoring system. Work included installation and upkeep of river level gauges at multiple local water bodies (Cangui Grande, Río de Oro, Arroyo Caracol, Río Quía, Laguna El Palmar, Río Guaycurú, Laguna El Moncholo), joint interpretation of hydrological data with community members, and ongoing relationship-building with local actors across the territory.</p>
   </div>
 </div>
-{% endunless %}
-{% endfor %}
+
+<div class="cv-entry">
+  <div class="cv-entry__date">2021 – 2023</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Co-development and coordination of a community hydrometeorological monitoring network</p>
+    <p class="cv-entry__sub">Departamento Bermejo, Chaco</p>
+    <p class="cv-entry__detail">Played a central role in building and sustaining a community monitoring network involving local producers, agricultural family schools, national park rangers, agricultural extension services, and rural education centers. Coordinated regular reporting of river and water body conditions by community monitors, supported network members in interpreting data, and facilitated communication between local and institutional actors on flood and drought risk.</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">2023</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">Participatory community risk mapping</p>
+    <p class="cv-entry__sub">Limitas and Tres Horquetas, Chaco</p>
+    <p class="cv-entry__detail">Facilitated participatory mapping workshops with rural communities to collectively document local flood and drought dynamics, territorial knowledge, and risk exposure. Workshops combined community-drawn maps with hydrometeorological data to build shared understanding of climate and water risks at the local scale.</p>
+  </div>
+</div>
+
+<div class="cv-entry">
+  <div class="cv-entry__date">2022</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">On-site training in hydrological monitoring</p>
+    <p class="cv-entry__sub">Departamento Bermejo, Chaco</p>
+    <p class="cv-entry__detail">Delivered in-person training to staff of a local rural education center on the installation, calibration, and use of river level gauges, as well as on community monitoring protocols and data reporting procedures. Training was designed to strengthen local capacity for autonomous hydrometeorological observation.</p>
+  </div>
+</div>
