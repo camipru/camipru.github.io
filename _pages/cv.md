@@ -190,45 +190,36 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-entry__date">2021 – 2023</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Field trips to Departamento Bermejo, Chaco (8 trips)</p>
-    <p class="cv-entry__sub">CIMA – UBA – CONICET / CLIMAX Project</p>
-    <p class="cv-entry__detail">Conducted repeated fieldwork in rural communities of the Argentine Chaco. Activities included installation and maintenance of river level gauges (reglas hidrométricas) at community monitoring points (Cangui Grande, Río de Oro, Arroyo Caracol, Río Quía, Laguna El Palmar, Río Guaycurú, Laguna El Moncholo). Coordinated with local farmers, ranchers, and community organizations throughout.</p>
+    <p class="cv-entry__title">Fieldwork in rural communities - Departamento Bermejo, Chaco (8 trips)</p>
+    <p class="cv-entry__sub">CIMA - UBA - CONICET / CLIMAX Project</p>
+    <p class="cv-entry__detail">Conducted repeated fieldwork in remote rural communities of the Argentine Chaco as part of the doctoral research process. Each trip involved direct engagement with cattle ranchers, family farmers, and local organizations to co-design and maintain a community-based hydrometeorological monitoring system. Work included installation and upkeep of river level gauges at multiple local water bodies (Cangui Grande, Río de Oro, Arroyo Caracol, Río Quía, Laguna El Palmar, Río Guaycurú, Laguna El Moncholo), joint interpretation of hydrological data with community members, and ongoing relationship-building with local actors across the territory.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2021 – 2023</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Coordination of community hydrometeorological monitoring network (RCBH)</p>
+    <p class="cv-entry__title">Co-development and coordination of a community hydrometeorological monitoring network</p>
     <p class="cv-entry__sub">Departamento Bermejo, Chaco</p>
-    <p class="cv-entry__detail">Co-developed and coordinated a community-based hydrological monitoring network with local producers, the EFA (Escuela de Familia Agrícola), APN, INTA, CEDEI, and other local actors. Facilitated regular reporting of river and water body conditions across the monitoring network.</p>
+    <p class="cv-entry__detail">Played a central role in building and sustaining a community monitoring network involving local producers, agricultural family schools, national park rangers, agricultural extension services, and rural education centers. Coordinated regular reporting of river and water body conditions by community monitors, supported network members in interpreting data, and facilitated communication between local and institutional actors on flood and drought risk.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2023</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Community risk mapping sessions (mapeos comunitarios)</p>
+    <p class="cv-entry__title">Participatory community risk mapping</p>
     <p class="cv-entry__sub">Limitas and Tres Horquetas, Chaco</p>
-    <p class="cv-entry__detail">Led participatory mapping workshops with local communities to document flood and drought risk, local water dynamics, and territorial knowledge.</p>
+    <p class="cv-entry__detail">Facilitated participatory mapping workshops with rural communities to collectively document local flood and drought dynamics, territorial knowledge, and risk exposure. Workshops combined community-drawn maps with hydrometeorological data to build shared understanding of climate and water risks at the local scale.</p>
   </div>
 </div>
 
 <div class="cv-entry">
   <div class="cv-entry__date">2022</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Training in hydrological monitoring - CEDEI</p>
+    <p class="cv-entry__title">On-site training in hydrological monitoring</p>
     <p class="cv-entry__sub">Departamento Bermejo, Chaco</p>
-    <p class="cv-entry__detail">Delivered on-site training to CEDEI staff on installation and use of river level gauges and community monitoring protocols.</p>
-  </div>
-</div>
-
-<div class="cv-entry">
-  <div class="cv-entry__date">2019 – 2023</div>
-  <div class="cv-entry__body">
-    <p class="cv-entry__title">Publication of community hydrometeorological bulletins</p>
-    <p class="cv-entry__sub">Departamento Bermejo, Chaco</p>
-    <p class="cv-entry__detail">Produced and distributed regular bulletins on river level conditions for local communities and institutions. Also developed micro-radio spots and podcast content for local dissemination.</p>
+    <p class="cv-entry__detail">Delivered in-person training to staff of a local rural education center on the installation, calibration, and use of river level gauges, as well as on community monitoring protocols and data reporting procedures. Training was designed to strengthen local capacity for autonomous hydrometeorological observation.</p>
   </div>
 </div>
 
