@@ -38,7 +38,7 @@ redirect_from:
   <div class="cv-entry__date">2024 – 2025</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">Technical Consultant</p>
-    <p class="cv-entry__sub">Consejo Federal de Inversiones (CFI) — Project: "Anticipando la Crecida Bonaerense"</p>
+    <p class="cv-entry__sub">Consejo Federal de Inversiones (CFI) - Project: "Anticipando la Crecida Bonaerense"</p>
     <p class="cv-entry__detail">Developed baseline territorial analysis for hydroclimatic risk. Designed training materials on climate risk and early warning systems. Led participatory workshops in urban flood-prone areas. Coordinated with provincial, municipal, and local community stakeholders.</p>
   </div>
 </div>
@@ -46,7 +46,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-entry__date">2020 – present</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">PhD Researcher — CONICET Doctoral Fellowship (Strategic Topics, 2019)</p>
+    <p class="cv-entry__title">PhD Researcher - CONICET Doctoral Fellowship (Strategic Topics, 2019)</p>
     <p class="cv-entry__sub">Centro de Investigaciones del Mar y de la Atmósfera (CIMA) – UBA – CONICET</p>
     <p class="cv-entry__detail">Applied multivariate statistical methods for hydroclimatic analysis. Conducted fieldwork in Departamento Bermejo (Chaco). Co-produced climate knowledge with cattle ranchers and family farmers. Co-developed community hydrometeorological monitoring networks. Coordinated participatory workshops (community risk mapping, monitoring training) with local actors.</p>
   </div>
@@ -76,7 +76,7 @@ redirect_from:
   <div class="cv-entry__date">2021 – 2023</div>
   <div class="cv-entry__body">
     <p class="cv-entry__title">"Red de información meteorológica"</p>
-    <p class="cv-entry__sub">Universidad Nacional del Sur, CONICET — ImpaCT.AR Programme (Min. de Desarrollo Agrario, PBA)</p>
+    <p class="cv-entry__sub">Universidad Nacional del Sur, CONICET - ImpaCT.AR Programme (Min. de Desarrollo Agrario, PBA)</p>
     <p class="cv-entry__detail">Generated climate information for agri-sector decision-makers in the Province of Buenos Aires.</p>
   </div>
 </div>
@@ -104,7 +104,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-entry__date">2024 – 2025</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Steering Group Member — PEOPLE (Progressing EW4All Oriented to Partnerships and Local Engagement)</p>
+    <p class="cv-entry__title">Steering Group Member - PEOPLE (Progressing EW4All Oriented to Partnerships and Local Engagement)</p>
     <p class="cv-entry__sub">World Weather Research Programme (WWRP)</p>
   </div>
 </div>
@@ -112,7 +112,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-entry__date">2022 – present</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Member — My Climate Risk Regional Hub CONICET Argentina</p>
+    <p class="cv-entry__title">Member - My Climate Risk Regional Hub CONICET Argentina</p>
     <p class="cv-entry__sub">World Climate Research Programme (WCRP)</p>
     <p class="cv-entry__detail">Coordination of interdisciplinary dialogue on climate risk conceptualization.</p>
   </div>
@@ -121,7 +121,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-entry__date">2020 – present</div>
   <div class="cv-entry__body">
-    <p class="cv-entry__title">Member — Young Earth System Scientists (YESS) Community</p>
+    <p class="cv-entry__title">Member - Young Earth System Scientists (YESS) Community</p>
     <p class="cv-entry__sub">International network for early-career Earth system scientists</p>
   </div>
 </div>
