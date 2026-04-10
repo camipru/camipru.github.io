@@ -1,0 +1,80 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<h2>Peer-reviewed Articles</h2>
+
+{% assign peer = site.publications | where: "category", "Peer-reviewed Articles" | sort: "date" | reverse %}
+{% for post in peer %}
+<div class="publication">
+  <p class="publication__title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</p>
+  <p class="publication__venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  {% if post.paperurl %}
+  <div class="publication__links">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+
+<h2>Thesis</h2>
+
+{% assign theses = site.publications | where: "category", "Thesis" | sort: "date" | reverse %}
+{% for post in theses %}
+<div class="publication">
+  <p class="publication__title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</p>
+  <p class="publication__venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  {% if post.paperurl %}
+  <div class="publication__links">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+
+<h2>Institutional Reports</h2>
+
+{% assign reports = site.publications | where: "category", "Institutional Reports" | sort: "date" | reverse %}
+{% for post in reports %}
+<div class="publication">
+  <p class="publication__title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</p>
+  <p class="publication__venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  {% if post.paperurl %}
+  <div class="publication__links">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+
+<h2>Opinion Articles</h2>
+
+{% assign opinion = site.publications | where: "category", "Opinion Articles" | sort: "date" | reverse %}
+{% for post in opinion %}
+<div class="publication">
+  <p class="publication__title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</p>
+  <p class="publication__venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  {% if post.paperurl %}
+  <div class="publication__links">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper</a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}
+
+<h2>Open Data &amp; Code</h2>
+
+{% assign opendata = site.publications | where: "category", "Open Data & Code" | sort: "date" | reverse %}
+{% for post in opendata %}
+<div class="publication">
+  <p class="publication__title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</p>
+  <p class="publication__venue">{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+  {% if post.paperurl %}
+  <div class="publication__links">
+    <a href="{{ post.paperurl }}" target="_blank" rel="noopener">Code</a>
+  </div>
+  {% endif %}
+</div>
+{% endfor %}

@@ -1,0 +1,23 @@
+---
+layout: default
+title: Teaching
+permalink: /teaching/
+---
+
+<h2>Teaching</h2>
+
+{% assign teaching = site.teaching | sort: "date" | reverse %}
+{% for post in teaching %}
+{% unless post.title == "" %}
+<div class="cv-entry">
+  <div class="cv-entry__date">{{ post.date | date: "%Y" }}</div>
+  <div class="cv-entry__body">
+    <p class="cv-entry__title">{{ post.title }}</p>
+    <p class="cv-entry__sub">{{ post.venue }}</p>
+    {% if post.content != "" %}
+    <div class="cv-entry__detail">{{ post.content }}</div>
+    {% endif %}
+  </div>
+</div>
+{% endunless %}
+{% endfor %}
